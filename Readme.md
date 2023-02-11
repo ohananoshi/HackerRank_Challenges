@@ -1,1 +1,2 @@
-My solutions for Hacker Rank Challenges.
+# Hacker Rank Challenges
+### My solutions for some Hacker Rank challenges.
